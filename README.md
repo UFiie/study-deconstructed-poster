@@ -183,28 +183,6 @@ Skill 的基础版式固定如下：
 
 ---
 
-## 📁 仓库结构建议
-
-```text
-study-deconstructed-poster/
-├── SKILL.md
-└── README.md
-```
-
-如果你后面想补充案例图，也可以这样扩展：
-
-```text
-study-deconstructed-poster/
-├── assets/
-│   ├── example-1.jpg
-│   ├── example-2.jpg
-│   └── example-3.jpg
-├── SKILL.md
-└── README.md
-```
-
----
-
 ## 🖼️ 参考图片
 
 如果你后续把案例图上传到仓库的 `assets/` 文件夹，可以在 README 中继续补充：
@@ -218,53 +196,6 @@ study-deconstructed-poster/
   <img src="assets/example-3.jpg" width="32%" alt="参考图3">
 </p>
 ```
-
----
-
-## 🌐 GitHub 仓库建议
-
-基于你的 GitHub 用户名 **UFiie**，推荐仓库地址为：
-
-```text
-https://github.com/UFiie/study-deconstructed-poster
-```
-
-仓库描述可以写成：
-
-> A skill for turning a single photo into a study-style poster with preserved photography and watercolor exploded technical diagrams.
-
----
-
-## 🏷️ 推荐 GitHub Topics
-
-建议添加这些 topics：
-
-- skill
-- image-generation
-- poster-design
-- editorial-design
-- architectural-graphics
-- watercolor-style
-- exploded-view
-- visual-research
-- design-system
-- prompt-design
-
----
-
-## 👤 作者信息
-
-Created for **UFiie**
-
-GitHub: [https://github.com/UFiie](https://github.com/UFiie)
-
----
-
-## 📄 License 建议
-
-如果你想保持简单，建议为仓库选择：
-
-**MIT License**
 
 ---
 
